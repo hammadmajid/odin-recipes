@@ -1,9 +1,10 @@
 :root {
-    --slate-900: #020508;
-    --slate-800: #2a2a2a;
-    --slate-300: #A8A89E;
-    --slate-50: #fafafa;
-    --blue-500: #3061ee;
+    --zinc-950: #09090b;
+    --zinc-800: #2a2a2a;
+    --zinc-600: #4b5563;
+    --zinc-400: #a1a1aa;
+    --zinc-200: #e4e4e7;
+    --zinc-50: #fafafa;
 }
 
 * {
